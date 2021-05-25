@@ -1,4 +1,4 @@
-# its not finished yet stll learning
+# its not finished yet still learning
 
 only have two page it will have sliders, adding to basket, signin with database
 
