@@ -11,8 +11,6 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 
 
@@ -21,3 +19,6 @@ You will also see any lint errors in the console.
 
 
 ![image](https://user-images.githubusercontent.com/64736322/119564610-a4ff7c00-bdb1-11eb-9f8e-9c542aef60ee.png)
+
+
+i inspired by cleverprogramming youtube videos
