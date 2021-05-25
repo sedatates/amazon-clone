@@ -1,0 +1,18 @@
+.checkout{
+  width: 100%;
+  display: flex;
+  padding: 20px;
+  background-color: white;
+  height: max-content;
+}
+.checkout__ad{
+  width: auto;
+  max-height: 142px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+}
+.checkout__title{
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightsalmon;
+}
