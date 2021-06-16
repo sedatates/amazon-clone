@@ -21,4 +21,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![image](https://user-images.githubusercontent.com/64736322/119564610-a4ff7c00-bdb1-11eb-9f8e-9c542aef60ee.png)
 
 
-i inspired by cleverprogramming youtube videos
+
